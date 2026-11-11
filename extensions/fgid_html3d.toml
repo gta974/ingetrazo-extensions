@@ -1,0 +1,20 @@
+id = "fgid_html3d"
+version = "0.17.2"
+author = "FGId"
+author_url = "https://github.com/gta974"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/gta974/fgid-html3d-ingetrazo"
+download = "https://github.com/gta974/fgid-html3d-ingetrazo/releases/download/v0.17.2/FGId_HTML3D_IngeTrazo_v0_17_2.zip"
+sha256 = "1e46ddf794b57e108efa6911b367d447c9fce6838aba1899d0988b5eafd16fde"
+ingetrazo = "0.5.10.1"
+tags = ["import-export", "productivity"]
+
+[name]
+en = "FGId Export HTML3D"
+es = "FGId Export HTML3D"
+pt = "FGId Export HTML3D"
+
+[summary]
+en = "Export an IngeTrazo model with materials, tags and selected scenes to a self-contained interactive HTML viewer."
+es = "Exporta un modelo de IngeTrazo con materiales, etiquetas y escenas seleccionadas a un visor HTML interactivo autónomo."
+pt = "Exporte um modelo do IngeTrazo com materiais, etiquetas e cenas selecionadas para um visualizador HTML interativo autônomo."
