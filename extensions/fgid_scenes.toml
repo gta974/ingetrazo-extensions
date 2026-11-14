@@ -1,10 +1,10 @@
 id = "fgid_scenes"
-version = "0.1.1"
+version = "0.1.2"
 author = "FGId"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/gta974/fgid-scenes-ingetrazo"
-download = "https://github.com/gta974/fgid-scenes-ingetrazo/releases/download/v0.1.1/FGId_Scenes_IngeTrazo_v0_1_1.zip"
-sha256 = "b2510620e5cf037c3af6291221cabd833eb8a01f14df6166b843f904c234fa89"
+download = "https://github.com/gta974/fgid-scenes-ingetrazo/releases/download/v0.1.2/FGId_Scenes_IngeTrazo_v0_1_2.zip"
+sha256 = "fb53b5920b5e470d195911a4f931fc7332a4e4e3a6c1c3f7693c31fedf85ff1a"
 ingetrazo = "0.5.10.1"
 tags = ["productivity", "drawing"]
 
